@@ -33,6 +33,7 @@ WhatsApp has certain limitations for team use:
 * 🔐 **Access control** – Restrict visibility of chats to specific team members.
 * 💾 **Data privacy** – All data is stored **on your PC**, never leaves your office network.
 * 📢 **Bulk messaging** – Send messages to a list of clients in one go.
+* 📢 **Message scheduling** – Schedule messages to be sent to clients, one time or regular interval.
 * 🏷️ **Client tagging** – Tag clients and filter chats easily.
 * 📤 **Export messages** – Export chat data to Excel for analysis or backup.
 * 👥 **Multi-user access** – One WhatsApp session, accessible to **up to 200 users** in your office.
@@ -104,13 +105,17 @@ A: Pricing will be finalized after the beta phase, based on user feedback.
 **Madrecha Solutions Pvt. Ltd.**
 Makers of [Jamku Practice Management Software](https://madrecha.com/jamku) and [Jamku Portal](https://portal.jamku.app)
 
-
-> [!IMPORTANT]
-> It is not guaranteed you will not be blocked by using this software. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe. Don't use this for marketing or bulk message sending.
-
+Contact
+- Helpline (WhatsApp Only) +91 84339 02490
+- Sales/Support +91 72082 03600
+- Invoice/Billing/Payment +91 87789 86135 (Dyana)
+- Escalations +91 99871 06585 (CA Priya Madrecha)
 
 ## ⚖️ Disclaimer
 This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates. The official WhatsApp website can be found at [whatsapp.com][whatsapp]. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+
+> [!IMPORTANT]
+> It is not guaranteed you will not be blocked by using this software. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe. Don't use this for marketing or bulk message sending.
 
 ## License
 Copyright 2025 Madrecha Solutions Pvt Ltd. All rights reserved.
