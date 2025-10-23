@@ -56,6 +56,69 @@ Jamku Pulse is built using **modern web technologies** for reliability and speed
 
 ---
 
+## Pricing 
+
+Choose a plan that best fits your needs 👇
+
+### ⚙️ Feature Comparison
+
+| Feature                          | 🪶 **Lite** |  ⚡ **Basic**  |   🚀 **Pro**  |
+| :------------------------------- | :---------: | :-----------: | :-----------: |
+| 👥 Count of Users                |     N/A     |       5       |       20      |
+| ➕ Additional Users               |     N/A     |   ₹100 each   |   ₹250 each   |
+| 📞 WhatsApp Numbers              |      1      |       1       |       1       |
+| ➕ Additional WhatsApp Numbers    |     N/A     |   ₹1500 each  |   ₹3000 each  |
+| 🔐 Login for Each User           |     N/A     |       ✅       |       ✅       |
+| 👀 Track Which User Sent Message |     N/A     |       ✅       |       ✅       |
+| 🧩 Permission Management         |     N/A     |      N/A      |       ✅       |
+| 💬 Number of Messages            |  Unlimited  |   Unlimited   |   Unlimited   |
+| 💻 Device Type                   |     Self    | Local Network | Local Network |
+| 📢 Bulk Message                  |      ✅      |       ✅       |       ✅       |
+| 🧾 Template Message              |      ✅      |       ✅       |       ✅       |
+| ⏰ Message Scheduling             |     N/A     |       ✅       |       ✅       |
+
+
+### 💵 Pricing Options
+
+Jamku Pulse offers **two flexible pricing options** depending on how you prefer to manage your subscription.
+
+#### 🅰️ Option A — Perpetual License (One-time + Renewal)
+
+| Plan        | 1st Year |  From 2nd Year |
+| :---------- | -------: | -------------: |
+| 🪶 **Lite** |      TBD |            TBD |
+| ⚡ **Basic** |  ₹11,000 |  ₹5,000 / year |
+| 🚀 **Pro**  |  ₹20,000 | ₹12,000 / year |
+
+#### 🅱️ Option B — Yearly Subscription
+
+| Plan        |     Annual Fee |
+| :---------- | -------------: |
+| 🪶 **Lite** |            TBD |
+| ⚡ **Basic** |  ₹8,000 / year |
+| 🚀 **Pro**  | ₹18,000 / year |
+
+### 🧭 Which Plan Should I Choose?
+
+| Team Type                                 | Recommended Plan | Why                                                                                              |
+| :---------------------------------------- | :--------------- | :----------------------------------------------------------------------------------------------- |
+| 👤 **Solo**                               | 🪶 **Lite**      | Best for trying out Jamku Pulse on a single system without user tracking or login.               |
+| 👥 **Small Team (up to 5 members)**       | ⚡ **Basic**      | Great for small offices/businesses wanting to know *who sent which message* and schedule messages.          |
+| 🏢 **Growing Office (more than 5 users)** | 🚀 **Pro**       | Ideal for larger teams needing *user permissions*, *message tracking*, and *custom scalability*. |
+
+
+
+### 🧾 Notes
+
+* 💡 *Lite plan* is ideal for testing or single-device setups.
+* ⚙️ *Basic plan* is perfect for small offices with a few team members.
+* 🏢 *Pro plan* is suited for growing teams needing advanced permission controls.
+* 📍 All plans are intended for use **within your office local network** (not a cloud service).
+
+
+
+---
+
 ## ❓ FAQ
 
 **Q: Does it use WhatsApp Business API?**
