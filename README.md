@@ -1,6 +1,7 @@
 # Jamku Pulse
-Unoffical WhatsApp communication client for small offices.
-**Jamku Pulse** helps offices with a common WhatsApp number manage and monitor team communication with clients — securely, efficiently, and all within your office network.
+> Unoffical WhatsApp communication client for small offices.
+
+**Jamku Pulse** helps small businesses / offices with a common WhatsApp number manage and monitor team communication with clients — securely, efficiently, and all within your office network.
 
 Jamku Pulse is currently in **Beta** (as of October 2025)
 
@@ -37,6 +38,11 @@ WhatsApp has certain limitations for team use:
 * 🏷️ **Client tagging** – Tag clients and filter chats easily.
 * 📤 **Export messages** – Export chat data to Excel for analysis or backup.
 * 👥 **Multi-user access** – One WhatsApp session, accessible to **up to 200 users** in your office.
+
+Since we don't use official WhatsApp API
+* No per message charges
+* No need to approve message templates
+* You can continue to use your WhatApp / WhatsApp business mobile app and also Desktop/Web app
 
 > ⚠️ Note: Jamku Pulse is still in **Beta**. Not all features may be available yet.
 
