@@ -158,9 +158,6 @@ A: Integration is in progress:
 * Jamku Practice Management Software → **December 2025**
 * Jamku Portal → **January 2026**
 
-**Q: What about pricing?**
-A: Pricing will be finalized after the beta phase, based on user feedback.
-
 ---
 
 ## 🏢 Developed by
