@@ -62,7 +62,7 @@ Jamku Pulse is built using **modern web technologies** for reliability and speed
 
 ---
 
-## Pricing 
+## 💰 Pricing 
 
 Choose a plan that best fits your needs 👇
 
