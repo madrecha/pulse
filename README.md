@@ -1,5 +1,5 @@
 # Jamku Pulse
-> Unoffical WhatsApp communication client for small offices.
+> Unofficial WhatsApp client.
 
 **Jamku Pulse** helps small businesses / offices with a common WhatsApp number manage and monitor team communication with clients — securely, efficiently, and all within your office network.
 
