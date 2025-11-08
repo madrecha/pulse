@@ -88,7 +88,7 @@ Choose a plan that best fits your needs 👇
 
 Jamku Pulse offers **two flexible pricing options** depending on how you prefer to manage your subscription.
 
-#### 🅰️ Option A — Perpetual License (One-time + Renewal)
+#### 🅰️ Option A — One-time + Renewal
 
 | Plan        | 1st Year |  From 2nd Year |
 | :---------- | -------: | -------------: |
