@@ -180,6 +180,8 @@ Contact
 ## ⚖️ Disclaimer
 This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates. The official WhatsApp website can be found at [whatsapp.com][whatsapp]. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
 
+Jamku pulse does not use the [WhatsApp Business API (WABA)](https://developers.facebook.com/docs/whatsapp/overview/business-accounts/). Rather it connects to a personal or a business (mobile app) account using the [Linked Devices](https://faq.whatsapp.com/378279804439436) feature. Yes, this means that it is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage.
+
 > [!IMPORTANT]
 > It is not guaranteed you will not be blocked by using this software. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe. Don't use this for marketing or bulk message sending.
 
