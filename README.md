@@ -84,11 +84,11 @@ Choose a plan that best fits your needs 👇
 | ⏰ Message Scheduling             |     N/A     |       ✅       |       ✅       |
 
 
-### 💵 Pricing Options
+### 💵 Pricing Option
 
-Jamku Pulse offers **two flexible pricing options** depending on how you prefer to manage your subscription.
+Jamku Pulse offers a **flexible pricing option** depending on how you prefer to manage your subscription.
 
-#### 🅰️ Option A — One-time + Renewal
+#### Option  — One-time + Renewal
 
 | Plan        | 1st Year |  From 2nd Year |
 | :---------- | -------: | -------------: |
@@ -96,13 +96,7 @@ Jamku Pulse offers **two flexible pricing options** depending on how you prefer 
 | ⚡ **Basic** |  ₹11,000 |  ₹5,000 / year |
 | 🚀 **Pro**  |  ₹20,000 | ₹12,000 / year |
 
-#### 🅱️ Option B — Yearly Subscription
 
-| Plan        |     Annual Fee |
-| :---------- | -------------: |
-| 🪶 **Lite** |            TBD |
-| ⚡ **Basic** |  ₹8,000 / year |
-| 🚀 **Pro**  | ₹18,000 / year |
 
 ### 🧭 Which Plan Should I Choose?
 
