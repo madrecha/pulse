@@ -71,7 +71,7 @@ Choose a plan that best fits your needs 👇
 | Feature                          | 🪶 **Lite** |  ⚡ **Basic**  |   🚀 **Pro**  |
 | :------------------------------- | :---------: | :-----------: | :-----------: |
 | 👥 Count of Users                |     N/A     |       5       |       20      |
-| ➕ Additional Users               |     N/A     |   ₹100 each   |   ₹250 each   |
+| ➕ Additional Users               |     N/A     |   ₹250 each   |   ₹500 each   |
 | 📞 WhatsApp Numbers              |      1      |       1       |       1       |
 | ➕ Additional WhatsApp Numbers    |     N/A     |   ₹1500 each  |   ₹3000 each  |
 | 🔐 Login for Each User           |     N/A     |       ✅       |       ✅       |
